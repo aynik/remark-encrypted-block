@@ -1,0 +1,20 @@
+{
+  "name": "remark-encrypted-block",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/aynik/remark-encrypted-block",
+    "type": "git"
+  },
+  "author": "aynik <aynik@protonmail.com>",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "remark"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "node-rsa": "^0.4.2"
+  }
+}
